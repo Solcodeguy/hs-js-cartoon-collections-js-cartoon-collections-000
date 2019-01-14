@@ -38,3 +38,6 @@ function findTheCheese(foods) {
 	}
 	return "no cheese!";
 }
+
+findTheCheese(["cherries", "cheddar", "banana"]) // "cheddar"
+findTheCheese(["banana", "pineapple", "cheddar", "gouda"]) // 

@@ -48,8 +48,14 @@ findTheCheese(["banana", "pineapple", "cheddar", "gouda"]) // "cheddar"
 
 function wordsThatStartWithB(words){
   var bNames = [] // to keep track of all words that start with b from our list of words
-  for(var i = 0; i < words.length; i++) 
+  for(var i = 0; i < words.length; i++) {
+    if(...){
+      
+    }
+  }
 }
+
+"brian".startsWith("b")
 
 wordsThatStartWithB(['banana', 'cherry', 'apple']) // ['banana']
 wordsThatStartWithB(['brian', 'bob', 'chad']) // ['brian', 'bob']

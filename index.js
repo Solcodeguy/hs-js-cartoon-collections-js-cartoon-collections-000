@@ -40,4 +40,22 @@ function findTheCheese(foods) {
 }
 
 findTheCheese(["cherries", "cheddar", "banana"]) // "cheddar"
-findTheCheese(["banana", "pineapple", "cheddar", "gouda"]) // 
+findTheCheese(["banana", "pineapple", "cheddar", "gouda"]) // "cheddar"
+
+
+
+
+
+function wordsThatStartWithB(words){
+  
+}
+
+wordsThatStartWithB(['banana', 'cherry', 'apple']) // ['banana']
+wordsThatStartWithB(['brian', 'bob', 'chad']) // ['brian', 'bob']
+wordsThatStartWithB(['cher', 'prince', 'taylor swift']) // []
+
+
+
+
+
+

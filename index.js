@@ -29,7 +29,7 @@ function longPlaneteerCalls(words) {
 }
 
 function findTheCheese(foods) {
-	var cheese = ["camembert", "cheddar", "gouda"];
+	var cheese = ["camembert", "cheddar", "gouda", "swiss"];
 	for(var i = 0; i < foods.length; i++) {
 		var cheeseIdx = cheese.indexOf(foods[i]);
 		if(cheeseIdx !== -1) {
